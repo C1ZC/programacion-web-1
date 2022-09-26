@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body, h1:not(.Encabezado) {
+    background: white;
+    margin: 20px 2px 10px 50px;
+    font-size: 19px;
+    /*padding: 100px 0 0 75px;*/
+    }
+    .negro{
+        color:black
+    }
+    h1 {
+    font-family: palatino, Georgia, serif;
+    color: #786f61;
+    background-color: #cc7722;
+    border-radius: 5px;
+    }
+    h2 {
+    color: #717171;
+    }
+    p {
+    font: normal 100%/1.5 Helvetica, Arial, Sans-serif;
+    color: #313131;
+    }
+    img{
+        border: 1.5px solid rgb(41, 41, 41);
+    }
